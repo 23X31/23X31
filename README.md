@@ -8,6 +8,6 @@
 - 📫 How to reach me: don't (or if you have to via Fediverse for now)
 - 😄 Pronouns: it/its & they/them & she/her (EN), es/ihr & sie/ihr (DE)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vexcel.app/?username=23X31&theme=radical" alt="23X31" /></a></p>
-<p align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=23X31&show_icons=true&locale=en&layout=compact&theme=radical" alt="23X31" /></p>
-<p align="center" src="https://github-readme-stats.vercel.app/api?username=23X31&rank_icon=percentile&show_icons=true&locale=en&theme=radical" alt="23X31" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=23X31&theme=radical" alt="23X31" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=23X31&show_icons=true&locale=en&layout=compact&theme=radical" alt="23X31" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=23X31&rank_icon=percentile&show_icons=true&locale=en&theme=radical" alt="23X31" /></p>
